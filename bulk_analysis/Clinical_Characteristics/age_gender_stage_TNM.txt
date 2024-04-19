@@ -1,0 +1,359 @@
+ID	Risk	Gender	Age	M	N	T	Stage
+TCGA-CG-5720-01A	High-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-CG-5720-11A	High-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-VQ-A8PX-01A	Low-risk	male	<65	M0	N0	T1	stageⅠ
+TCGA-MX-A663-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-IN-A7NT-01A	Low-risk	female	>=65	M0	N1	T3	stageⅡ
+TCGA-VQ-A94P-01A	High-risk	male	<65	NA	NA	T4	NA
+TCGA-VQ-A91N-01A	High-risk	female	<65	M0	N3	T4	stage Ⅳ
+TCGA-HU-8610-01A	Low-risk	male	>=65	M0	N0	T1	stageⅠ
+TCGA-BR-7196-01A	High-risk	male	<65	M1	N3	T3	stage Ⅳ
+TCGA-IN-8462-01A	Low-risk	male	>=65	M0	N1	T2	stageⅡ
+TCGA-D7-6525-01A	High-risk	male	<65	M0	N2	T2	stage Ⅲ
+TCGA-CG-5732-01A	High-risk	male	>=65	M0	N3	T2	stage Ⅳ
+TCGA-BR-4280-01A	Low-risk	female	>=65	M0	N1	T2	stage Ⅲ
+TCGA-VQ-A91Y-01A	High-risk	male	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-A44U-01A	High-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-BR-8059-01A	High-risk	male	>=65	M0	N1	T4	stage Ⅲ
+TCGA-F1-A72C-01A	Low-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-BR-A4IV-01A	High-risk	male	<65	M0	N2	T4	stage Ⅲ
+TCGA-MX-A5UG-01A	High-risk	male	>=65	M0	N1	T3	stage Ⅲ
+TCGA-BR-8683-01A	High-risk	male	>=65	M0	N2	T4	stage Ⅲ
+TCGA-CG-4437-01A	High-risk	male	>=65	M0	N1	T2	stageⅡ
+TCGA-HU-A4HD-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-BR-4187-01A	High-risk	male	<65	M0	NA	NA	NA
+TCGA-R5-A7O7-01A	Low-risk	male	<65	M1	N1	T3	stage Ⅳ
+TCGA-B7-5818-01A	Low-risk	male	<65	M0	N0	T2	stageⅠ
+TCGA-FP-8631-01A	Low-risk	male	>=65	NA	N2	T3	stage Ⅲ
+TCGA-FP-8209-01A	High-risk	male	<65	M0	N0	T2	stageⅠ
+TCGA-CG-5724-01A	High-risk	male	<65	M1	N3	T3	stage Ⅳ
+TCGA-D7-A4YU-01A	High-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-CG-4466-01A	Low-risk	female	>=65	M0	N0	T2	stageⅠ
+TCGA-CD-A489-01A	High-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-D7-6520-01A	High-risk	male	<65	M0	N2	T2	stage Ⅲ
+TCGA-CG-4477-01A	High-risk	female	<65	M0	N0	T2	stageⅠ
+TCGA-D7-A6EZ-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-CG-4475-01A	High-risk	male	>=65	M0	N1	T3	stageⅡ
+TCGA-BR-7717-01A	Low-risk	male	<65	M0	N1	T4	stage Ⅳ
+TCGA-BR-7717-11A	High-risk	male	<65	M0	N1	T4	stage Ⅳ
+TCGA-HU-A4H5-01A	Low-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-HU-A4H0-01A	Low-risk	male	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-8677-01A	High-risk	female	>=65	M0	N3	T3	stage Ⅲ
+TCGA-D7-A6F2-01A	Low-risk	male	<65	M0	N0	T2	stageⅠ
+TCGA-VQ-AA68-01A	Low-risk	female	<65	M0	N3	T4	stage Ⅲ
+TCGA-RD-A8MV-01A	Low-risk	male	<65	M0	N2	T3	stage Ⅲ
+TCGA-BR-4267-01A	Low-risk	male	<65	M0	N0	T2	stageⅠ
+TCGA-R5-A7ZF-01A	Low-risk	female	>=65	M1	N1	T4	stage Ⅳ
+TCGA-CD-5803-01A	High-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-RD-A8N6-01A	High-risk	female	>=65	M0	N2	T2	stage Ⅲ
+TCGA-CG-5734-01A	Low-risk	male	>=65	M0	N1	T3	stage Ⅲ
+TCGA-CG-5734-11A	High-risk	male	>=65	M0	N1	T3	stage Ⅲ
+TCGA-D7-6527-01A	High-risk	male	<65	M0	N1	T2	stageⅡ
+TCGA-BR-6852-01A	High-risk	female	<65	M0	N0	T3	stageⅡ
+TCGA-IN-A6RN-01A	Low-risk	female	>=65	M0	N2	T1	stageⅡ
+TCGA-CG-4301-01A	Low-risk	female	>=65	M1	N1	T4	stage Ⅳ
+TCGA-HU-8238-01A	Low-risk	male	<65	M0	NA	T3	NA
+TCGA-HU-8238-11A	High-risk	male	<65	M0	NA	T3	NA
+TCGA-IN-A6RL-01A	Low-risk	male	>=65	M0	N1	T2	NA
+TCGA-FP-7916-01A	High-risk	male	>=65	NA	N3	T4	stage Ⅲ
+TCGA-D7-A74A-01A	Low-risk	female	<65	M0	N2	T3	stage Ⅲ
+TCGA-HU-A4H8-01A	High-risk	male	>=65	M0	N1	T1	stageⅠ
+TCGA-BR-7851-01A	High-risk	male	>=65	M0	N0	T4	stageⅡ
+TCGA-BR-7851-11A	High-risk	male	>=65	M0	N0	T4	stageⅡ
+TCGA-BR-A44T-01A	High-risk	female	<65	M0	N0	T3	stageⅡ
+TCGA-IN-A6RJ-01A	Low-risk	male	<65	M0	N0	T1	stageⅠ
+TCGA-EQ-8122-01A	High-risk	female	>=65	NA	N1	T3	stageⅡ
+TCGA-D7-6526-01A	High-risk	female	>=65	M0	N2	T3	stage Ⅲ
+TCGA-HU-A4GY-01A	High-risk	female	>=65	M0	N1	T4	stage Ⅲ
+TCGA-HU-A4GY-11A	High-risk	female	>=65	M0	N1	T4	stage Ⅲ
+TCGA-CG-4441-01A	Low-risk	male	>=65	M0	N2	T2	stage Ⅲ
+TCGA-D7-6519-01A	Low-risk	female	<65	M0	N1	T2	NA
+TCGA-CG-5722-01A	High-risk	female	>=65	M1	N2	T3	stage Ⅳ
+TCGA-BR-8371-01A	High-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-CD-5799-01A	High-risk	male	<65	M0	N1	T2	stageⅡ
+TCGA-HU-A4GF-01A	Low-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-B7-A5TI-01A	Low-risk	male	<65	M0	N3	T4	stage Ⅲ
+TCGA-D7-A6EY-01A	High-risk	female	>=65	M0	N3	T3	stage Ⅲ
+TCGA-RD-A8N9-01A	High-risk	female	<65	M0	N1	T2	stageⅡ
+TCGA-CG-5733-11A	Low-risk	female	>=65	M0	N2	T2	stage Ⅲ
+TCGA-D7-A6EX-01A	High-risk	female	>=65	M0	N2	T3	stage Ⅲ
+TCGA-CD-8528-01A	Low-risk	female	<65	M0	N0	T4	stage Ⅲ
+TCGA-RD-A8N0-01A	High-risk	female	<65	M0	N2	T3	stage Ⅲ
+TCGA-VQ-A8P2-01A	Low-risk	male	>=65	M0	N1	T4	stage Ⅲ
+TCGA-VQ-A91S-01A	Low-risk	male	<65	M0	N1	T4	stage Ⅲ
+TCGA-BR-4191-01A	High-risk	male	>=65	M0	N1	NA	NA
+TCGA-FP-7735-01A	Low-risk	male	>=65	NA	N0	T2	stageⅠ
+TCGA-FP-7735-11A	High-risk	male	>=65	NA	N0	T2	stageⅠ
+TCGA-HU-A4H3-01A	Low-risk	female	<65	M0	N3	T4	stage Ⅲ
+TCGA-BR-7704-01A	Low-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-BR-7704-11A	High-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-CG-5725-01A	Low-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-BR-8484-01A	Low-risk	male	<65	M0	N1	T4	stage Ⅲ
+TCGA-BR-A4J4-01A	High-risk	male	<65	M0	N2	T4	stage Ⅲ
+TCGA-D7-8572-01A	High-risk	male	<65	M0	N2	T2	stageⅡ
+TCGA-B7-A5TN-01A	Low-risk	male	<65	M0	NA	T4	stageⅡ
+TCGA-CG-4305-01A	High-risk	male	>=65	M0	N1	T2	stageⅡ
+TCGA-RD-A7C1-01A	Low-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-VQ-A8PQ-01A	High-risk	female	<65	M1	N1	T4	stage Ⅳ
+TCGA-BR-8368-01A	Low-risk	female	>=65	M0	N0	T2	stageⅠ
+TCGA-CG-4436-01A	Low-risk	male	<65	M0	N0	T2	stageⅠ
+TCGA-SW-A7EB-01A	High-risk	male	<65	M0	N2	T3	stage Ⅲ
+TCGA-D7-8576-01A	Low-risk	female	<65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-A94O-01A	Low-risk	male	>=65	M0	N3	T4	stage Ⅲ
+TCGA-VQ-A8PC-01A	Low-risk	male	>=65	M0	N1	T3	stage Ⅲ
+TCGA-HF-7132-01A	Low-risk	male	NA	M0	N1	T2	stageⅡ
+TCGA-R5-A7ZE-01B	Low-risk	female	>=65	M0	N2	T3	stage Ⅲ
+TCGA-BR-A4J7-01A	High-risk	male	<65	M0	NA	T4	stageⅡ
+TCGA-HU-A4G8-01A	Low-risk	female	>=65	M0	N1	T3	stageⅡ
+TCGA-HU-A4H4-01A	Low-risk	female	<65	M0	N2	T2	stageⅡ
+TCGA-HU-A4GX-01A	Low-risk	female	>=65	M0	N2	T4	stage Ⅲ
+TCGA-VQ-A922-01A	Low-risk	male	>=65	M0	N1	T4	stage Ⅳ
+TCGA-VQ-A8P8-01A	High-risk	female	>=65	M0	N0	T4	stageⅡ
+TCGA-CG-4438-01A	High-risk	male	<65	M0	N2	T4	stage Ⅳ
+TCGA-HU-8602-01A	Low-risk	female	<65	M0	N0	T4	stageⅡ
+TCGA-VQ-A8DU-01A	Low-risk	male	<65	M0	N2	T3	stage Ⅲ
+TCGA-CD-A4MG-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-CG-5717-01A	High-risk	male	<65	M0	N1	T2	stageⅡ
+TCGA-BR-4253-01A	Low-risk	female	>=65	M0	N1	T3	stage Ⅲ
+TCGA-VQ-A8PF-01A	High-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-BR-8384-01A	High-risk	male	>=65	M0	N2	T4	stage Ⅲ
+TCGA-SW-A7EA-01A	Low-risk	female	<65	M0	N0	T2	stageⅠ
+TCGA-MX-A5UJ-01A	High-risk	female	>=65	M0	N2	T3	stage Ⅲ
+TCGA-B7-A5TJ-01A	High-risk	male	>=65	M0	NA	T4	stageⅡ
+TCGA-KB-A93J-01A	Low-risk	male	>=65	M0	N1	T2	stageⅡ
+TCGA-CD-8524-01A	High-risk	female	<65	M0	N0	T3	stageⅡ
+TCGA-BR-8588-01A	High-risk	female	<65	M0	N0	T4	stageⅡ
+TCGA-HU-A4G9-01A	Low-risk	female	>=65	M0	N0	T1	stageⅠ
+TCGA-BR-8361-01A	Low-risk	female	>=65	M0	N2	T4	stage Ⅲ
+TCGA-CD-8532-01A	Low-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-VQ-A928-01A	High-risk	male	<65	M0	N3	T3	stage Ⅳ
+TCGA-D7-A6F0-01A	Low-risk	female	>=65	M0	N0	T2	stageⅠ
+TCGA-BR-7901-01A	High-risk	male	>=65	M0	N1	T3	stageⅡ
+TCGA-FP-A4BF-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-CD-8535-01A	Low-risk	male	<65	M0	N1	T3	stage Ⅲ
+TCGA-VQ-A8DT-01A	Low-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-BR-6458-01A	High-risk	female	<65	M0	N1	T3	stageⅡ
+TCGA-HU-A4G2-01A	Low-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-VQ-A91V-01A	Low-risk	male	<65	M0	N2	T3	stage Ⅲ
+TCGA-HU-A4GP-01A	Low-risk	female	<65	M0	N1	T2	stageⅡ
+TCGA-CG-4443-01A	High-risk	male	>=65	M0	N0	T1	stageⅠ
+TCGA-BR-A4J6-01A	High-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-BR-8080-01A	High-risk	female	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-A4J9-01A	High-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-HJ-7597-01A	Low-risk	female	>=65	NA	N0	T2	stageⅠ
+TCGA-BR-8369-01A	High-risk	female	>=65	M0	N3	T3	stage Ⅲ
+TCGA-IN-A6RR-01A	Low-risk	male	>=65	M0	N1	T3	NA
+TCGA-VQ-A8E7-01B	Low-risk	male	<65	M1	N1	T3	stage Ⅳ
+TCGA-VQ-AA6F-01A	Low-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-BR-7957-01A	High-risk	female	<65	M1	N3	T3	stage Ⅳ
+TCGA-RD-A8N5-01A	Low-risk	male	>=65	M0	N1	T3	stage Ⅲ
+TCGA-BR-4257-01A	Low-risk	female	>=65	M0	NA	NA	NA
+TCGA-VQ-AA69-01A	Low-risk	male	<65	M0	N2	T3	stage Ⅲ
+TCGA-BR-8077-01A	Low-risk	female	<65	M0	N1	T4	stage Ⅲ
+TCGA-BR-7722-01A	Low-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-CD-5801-01A	Low-risk	male	>=65	M0	N1	T3	stage Ⅲ
+TCGA-CG-5721-01A	High-risk	male	<65	M0	N1	T4	stage Ⅳ
+TCGA-CG-5721-11A	High-risk	male	<65	M0	N1	T4	stage Ⅳ
+TCGA-MX-A666-01A	High-risk	male	<65	NA	NA	T2	stageⅡ
+TCGA-BR-8690-01A	Low-risk	female	<65	M0	N3	T3	stage Ⅲ
+TCGA-BR-7723-01A	Low-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-A91E-01A	Low-risk	female	>=65	M0	N0	T4	stage Ⅲ
+TCGA-VQ-A91A-01A	High-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-A8PE-01A	Low-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-IN-A6RS-01A	Low-risk	male	>=65	M0	N0	T1	stageⅠ
+TCGA-D7-6528-01A	Low-risk	female	>=65	M0	N0	T2	stageⅠ
+TCGA-VQ-AA6G-01A	Low-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-CG-5718-01A	Low-risk	female	>=65	M0	N1	T2	stageⅡ
+TCGA-IN-7806-01A	Low-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-IN-7806-11A	High-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-BR-8485-01A	Low-risk	female	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-8680-01A	Low-risk	male	<65	M1	N2	T4	stage Ⅳ
+TCGA-HU-A4HB-01A	Low-risk	male	>=65	M0	N2	T2	stageⅡ
+TCGA-HU-A4HB-11A	High-risk	male	>=65	M0	N2	T2	stageⅡ
+TCGA-VQ-A8PO-01A	Low-risk	male	>=65	M0	N0	T4	stageⅡ
+TCGA-BR-8372-01A	High-risk	male	<65	M0	N3	T4	stage Ⅲ
+TCGA-BR-8487-01A	Low-risk	female	<65	M0	N0	T3	stageⅡ
+TCGA-BR-A4PF-01A	Low-risk	male	>=65	M0	N2	T4	stage Ⅲ
+TCGA-RD-A8NB-01A	High-risk	female	>=65	M0	N1	T3	stage Ⅲ
+TCGA-D7-8578-01A	High-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-VQ-A8PD-01A	High-risk	male	>=65	M0	N3	T4	stage Ⅲ
+TCGA-VQ-A92D-01A	Low-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-BR-8590-01A	High-risk	male	<65	M0	N2	T4	stage Ⅲ
+TCGA-VQ-A8DZ-01A	Low-risk	male	>=65	M1	N3	T4	stage Ⅳ
+TCGA-CD-5813-01A	High-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-BR-8297-01A	High-risk	male	<65	M0	N3	T4	stage Ⅲ
+TCGA-RD-A8N2-01A	High-risk	female	<65	M0	N0	T2	stageⅠ
+TCGA-BR-8373-01A	Low-risk	female	>=65	M0	N1	T4	stage Ⅲ
+TCGA-FP-7829-01A	Low-risk	male	>=65	M0	N1	T3	stageⅡ
+TCGA-FP-7829-11A	High-risk	male	>=65	M0	N1	T3	stageⅡ
+TCGA-BR-4201-01A	High-risk	female	>=65	M0	NA	T2	NA
+TCGA-VQ-A8P3-01A	Low-risk	male	>=65	M0	N1	T4	stage Ⅲ
+TCGA-RD-A7BS-01A	Low-risk	male	<65	M0	N1	T3	stage Ⅲ
+TCGA-BR-6802-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-BR-6802-11A	High-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-D7-A6EV-01A	Low-risk	female	>=65	M0	N2	T2	stageⅡ
+TCGA-CG-4440-01A	High-risk	female	>=65	M1	N3	T3	stage Ⅳ
+TCGA-IN-A7NR-01A	High-risk	female	<65	M1	N3	T3	stage Ⅳ
+TCGA-VQ-A8PP-01A	Low-risk	male	>=65	M0	N1	T4	stage Ⅳ
+TCGA-VQ-A8P5-01A	Low-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-ZA-A8F6-01A	High-risk	male	>=65	NA	N0	T2	stageⅠ
+TCGA-BR-8382-01A	Low-risk	female	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-6457-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-BR-6457-11A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-IN-A6RI-01A	Low-risk	male	<65	M0	N0	T1	stageⅠ
+TCGA-BR-8060-01A	High-risk	female	>=65	M0	N2	T2	stageⅡ
+TCGA-BR-8060-11A	High-risk	female	>=65	M0	N2	T2	stageⅡ
+TCGA-CD-A48A-01A	Low-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-CD-8525-01A	Low-risk	female	>=65	M0	N1	T3	stage Ⅲ
+TCGA-BR-7958-01A	High-risk	male	<65	M0	N0	T4	stage Ⅲ
+TCGA-BR-6709-01A	High-risk	female	<65	M0	N3	T3	stage Ⅲ
+TCGA-BR-6803-01A	High-risk	female	<65	M0	N0	T3	stageⅡ
+TCGA-BR-7716-01A	Low-risk	female	<65	M0	N1	T3	stageⅡ
+TCGA-BR-7716-11A	High-risk	female	<65	M0	N1	T3	stageⅡ
+TCGA-CG-4460-01A	High-risk	female	>=65	M1	N1	T4	stage Ⅳ
+TCGA-VQ-A94R-01A	High-risk	male	<65	M0	N2	T4	NA
+TCGA-D7-6521-01A	High-risk	male	>=65	M0	N2	T2	NA
+TCGA-BR-8589-01A	Low-risk	male	<65	M0	N1	T4	stage Ⅲ
+TCGA-BR-8483-01A	High-risk	male	<65	M0	N2	T3	stage Ⅲ
+TCGA-VQ-A8PK-01A	Low-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-FP-8211-01A	Low-risk	male	<65	NA	N1	T3	stageⅡ
+TCGA-D7-8570-01A	High-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-HF-A5NB-01A	Low-risk	female	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-8296-01A	Low-risk	female	<65	M0	N2	T4	stage Ⅲ
+TCGA-BR-8364-01A	High-risk	female	<65	M0	N2	T4	stage Ⅲ
+TCGA-CD-8531-01A	Low-risk	female	>=65	M0	N1	T3	stage Ⅲ
+TCGA-BR-6453-01A	High-risk	male	<65	M0	N1	T2	stageⅡ
+TCGA-VQ-AA6A-01A	Low-risk	male	<65	M0	N3	T4	stage Ⅲ
+TCGA-D7-6815-01A	Low-risk	female	>=65	M0	N2	T2	stageⅡ
+TCGA-VQ-A8PM-01A	High-risk	male	<65	M0	N3	T4	stage Ⅳ
+TCGA-F1-A448-01A	Low-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-A924-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-BR-A4J5-01A	High-risk	male	<65	M0	N1	T4	stage Ⅲ
+TCGA-VQ-A91X-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-RD-A7BW-01A	High-risk	female	>=65	M0	N0	T2	stageⅠ
+TCGA-HU-A4H2-01A	Low-risk	female	<65	M0	N3	T3	stage Ⅲ
+TCGA-CD-8529-01A	High-risk	male	>=65	M1	N0	T4	stage Ⅳ
+TCGA-BR-7707-01A	Low-risk	female	>=65	M0	N0	T2	stageⅠ
+TCGA-CD-A486-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-CD-A4MH-01A	High-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-KB-A6F7-01A	Low-risk	female	<65	M0	N1	T1	stageⅠ
+TCGA-FP-7998-01A	Low-risk	male	>=65	NA	N3	T4	stage Ⅲ
+TCGA-BR-6563-01A	High-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-BR-8687-01A	High-risk	female	>=65	M0	N2	T4	stage Ⅲ
+TCGA-BR-6705-01A	High-risk	female	>=65	M0	N3	T3	stage Ⅲ
+TCGA-D7-5578-01A	High-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-BR-7703-11A	Low-risk	male	>=65	M0	N0	T1	stageⅠ
+TCGA-VQ-A91Q-01A	Low-risk	male	<65	M0	N3	T3	stage Ⅳ
+TCGA-VQ-A925-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-HU-A4GQ-01A	High-risk	male	>=65	M0	N2	T4	stage Ⅲ
+TCGA-HU-A4GT-01A	Low-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-HU-A4GD-01A	Low-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-BR-6455-01A	High-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-FP-A9TM-01A	High-risk	male	>=65	M0	N1	T1	NA
+TCGA-VQ-A8PH-01A	Low-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-CG-4306-01A	Low-risk	male	>=65	M1	N2	T3	stage Ⅳ
+TCGA-CD-8534-01A	Low-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-VQ-A91Z-01A	Low-risk	female	>=65	M0	N1	T3	stage Ⅲ
+TCGA-BR-6564-01A	High-risk	female	<65	M0	N2	T3	stage Ⅲ
+TCGA-BR-7715-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-BR-7715-11A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-D7-A4YX-01A	Low-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-BR-8058-01A	Low-risk	female	<65	M0	N2	T4	stage Ⅲ
+TCGA-HF-7133-01A	Low-risk	female	NA	M0	N3	T2	stage Ⅳ
+TCGA-CD-8526-01A	Low-risk	female	>=65	M0	N1	T3	stage Ⅲ
+TCGA-D7-A748-01A	High-risk	female	<65	M1	N3	T4	stage Ⅳ
+TCGA-HU-A4GU-01A	Low-risk	male	>=65	M0	N1	T3	stageⅡ
+TCGA-HU-A4H6-01A	Low-risk	female	>=65	M0	N2	T3	stage Ⅲ
+TCGA-D7-6524-01A	High-risk	male	<65	M0	N1	T2	stageⅡ
+TCGA-CD-8533-01A	Low-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-CG-4465-01A	High-risk	female	>=65	M1	N3	T4	stage Ⅳ
+TCGA-FP-8099-01A	Low-risk	male	>=65	NA	N0	T3	stageⅡ
+TCGA-VQ-A91K-01A	Low-risk	male	>=65	M0	N1	T3	stage Ⅲ
+TCGA-BR-8592-01A	High-risk	female	<65	M0	N1	T4	stage Ⅲ
+TCGA-D7-6818-01A	High-risk	male	<65	M0	N3	T2	stage Ⅲ
+TCGA-D7-8573-01A	Low-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-CG-5726-01A	High-risk	male	>=65	M0	N0	T1	stageⅠ
+TCGA-VQ-A8PU-01A	Low-risk	female	>=65	M0	N1	T4	stage Ⅲ
+TCGA-BR-8284-01A	High-risk	female	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-4256-01A	High-risk	male	>=65	M0	N1	NA	NA
+TCGA-IN-AB1V-01A	High-risk	male	<65	M0	N0	T1	stageⅠ
+TCGA-IN-AB1V-11A	High-risk	male	<65	M0	N0	T1	stageⅠ
+TCGA-BR-8676-01A	Low-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-BR-8295-01A	High-risk	female	<65	M0	N0	T4	stageⅡ
+TCGA-IN-7808-01A	High-risk	male	<65	M1	N3	T3	NA
+TCGA-BR-7197-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-VQ-A8PJ-01A	Low-risk	male	<65	M1	N2	T4	stage Ⅳ
+TCGA-D7-6522-01A	High-risk	male	<65	M0	N0	T2	stageⅠ
+TCGA-CG-4469-01A	Low-risk	male	>=65	M0	N3	T3	stage Ⅳ
+TCGA-BR-6707-01A	High-risk	male	>=65	M0	N0	T3	stageⅡ
+TCGA-RD-A8N1-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-HU-8608-01A	Low-risk	male	>=65	M0	N2	T4	stage Ⅲ
+TCGA-CD-8527-01A	Low-risk	female	>=65	M0	N1	T2	stageⅡ
+TCGA-R5-A7ZI-01A	Low-risk	female	<65	M1	N1	T4	stage Ⅳ
+TCGA-3M-AB46-01A	Low-risk	male	>=65	NA	N0	T2	stageⅠ
+TCGA-CG-5730-11A	High-risk	female	>=65	M1	N1	T2	stage Ⅳ
+TCGA-HU-8249-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-R5-A805-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-BR-8365-01A	High-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-HU-8244-01A	Low-risk	female	>=65	M0	N0	T1	stageⅠ
+TCGA-F1-6874-01A	Low-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-BR-8682-01A	High-risk	male	<65	M0	N0	T4	stageⅡ
+TCGA-B7-A5TK-01A	High-risk	male	<65	M0	NA	T4	stage Ⅲ
+TCGA-BR-8289-01A	High-risk	male	<65	M1	N3	T4	stage Ⅳ
+TCGA-BR-4279-01A	High-risk	male	<65	M0	N1	T2	stageⅡ
+TCGA-D7-8579-01A	High-risk	female	>=65	M0	N2	T2	stageⅡ
+TCGA-BR-A4J8-01A	High-risk	female	>=65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-A8E2-01A	Low-risk	male	<65	M0	N2	T3	stage Ⅲ
+TCGA-CG-5728-11A	Low-risk	female	>=65	M0	N0	T2	stageⅠ
+TCGA-BR-6566-01A	Low-risk	female	<65	M0	N0	T3	stageⅡ
+TCGA-BR-8686-01A	High-risk	male	>=65	M0	N1	T4	stage Ⅲ
+TCGA-BR-8291-01A	High-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-IN-A7NU-01A	Low-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-A927-01A	High-risk	male	>=65	M0	N3	T3	stage Ⅲ
+TCGA-BR-8367-01A	High-risk	male	<65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-A94U-01A	High-risk	male	>=65	M0	N0	T4	stageⅡ
+TCGA-D7-5577-01A	Low-risk	female	<65	M0	N3	T2	stage Ⅲ
+TCGA-BR-8286-01A	Low-risk	male	<65	M0	N0	T3	stageⅡ
+TCGA-VQ-AA6D-01A	Low-risk	female	<65	M0	N1	T4	stage Ⅲ
+TCGA-VQ-AA6K-01A	High-risk	male	<65	M0	N3	T4	stage Ⅲ
+TCGA-HF-7134-01A	Low-risk	male	NA	M0	N0	T1	stageⅠ
+TCGA-BR-8081-01A	Low-risk	female	>=65	M0	N0	T4	stageⅡ
+TCGA-BR-6565-01A	High-risk	male	>=65	M0	N0	T4	stageⅡ
+TCGA-FP-8210-01A	High-risk	male	<65	M0	N1	T3	stage Ⅲ
+TCGA-BR-6710-01A	High-risk	male	<65	M0	N0	T2	stageⅠ
+TCGA-BR-7959-01A	High-risk	male	<65	M0	N1	T4	stage Ⅲ
+TCGA-CD-A48C-01A	High-risk	female	>=65	M0	N1	T3	stageⅡ
+TCGA-D7-A747-01A	High-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-IP-7968-01A	Low-risk	male	>=65	NA	N2	T3	stage Ⅲ
+TCGA-IP-7968-11A	High-risk	male	>=65	NA	N2	T3	stage Ⅲ
+TCGA-D7-A4Z0-01A	High-risk	female	<65	M0	N2	T2	stageⅡ
+TCGA-BR-6452-01A	Low-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-BR-6456-01A	High-risk	female	>=65	M0	N1	T3	stageⅡ
+TCGA-HU-A4G3-01A	Low-risk	male	<65	M0	N2	T2	stageⅡ
+TCGA-HU-8604-01A	Low-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-CD-A487-01A	High-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-VQ-A8PB-01A	Low-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-D7-6822-01A	Low-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-HU-A4GH-01A	Low-risk	male	>=65	M0	N0	T1	stageⅠ
+TCGA-RD-A8MW-01A	High-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-HU-A4GC-01A	Low-risk	male	>=65	M0	N2	T4	stage Ⅲ
+TCGA-BR-A4QL-01A	Low-risk	female	>=65	M0	N3	T3	stage Ⅲ
+TCGA-VQ-AA64-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-BR-8678-01A	Low-risk	male	>=65	M0	N0	T2	stageⅠ
+TCGA-CG-4444-01A	High-risk	male	>=65	M0	N2	T2	stage Ⅲ
+TCGA-VQ-AA6J-01A	High-risk	male	>=65	M0	N2	T4	stage Ⅲ
+TCGA-CG-5723-01A	High-risk	male	>=65	M0	N1	T2	stageⅡ
+TCGA-CD-5800-01A	Low-risk	female	<65	M0	N0	T3	stageⅡ
+TCGA-BR-A4CS-01A	Low-risk	male	>=65	M0	N3	T4	stage Ⅲ
+TCGA-BR-8366-01A	High-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-FP-A8CX-01A	Low-risk	male	<65	NA	N3	T4	stage Ⅲ
+TCGA-BR-8591-01A	High-risk	male	>=65	M0	N3	T4	stage Ⅲ
+TCGA-IN-8663-01A	High-risk	male	>=65	M0	N2	T2	stageⅡ
+TCGA-IN-8663-11A	High-risk	male	>=65	M0	N2	T2	stageⅡ
+TCGA-BR-8381-01A	Low-risk	male	<65	M0	N1	T3	stageⅡ
+TCGA-HU-A4GJ-01A	High-risk	female	<65	M0	N3	T4	stage Ⅲ
+TCGA-ZQ-A9CR-01A	High-risk	female	>=65	NA	N3	T4	stage Ⅲ
+TCGA-IN-AB1X-01A	Low-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-IN-AB1X-11A	High-risk	female	>=65	M0	N0	T3	stageⅡ
+TCGA-VQ-A8E0-01A	Low-risk	male	>=65	M0	N2	T3	stage Ⅲ
+TCGA-BR-8380-01A	High-risk	male	<65	M0	N3	T4	stage Ⅲ

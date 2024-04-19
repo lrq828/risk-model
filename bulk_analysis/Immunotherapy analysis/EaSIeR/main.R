@@ -152,7 +152,7 @@ library(tidyr)
 # groupdat$clust <- ifelse(groupdat$clust==1,"C1","C2")
 
 ##免疫细胞类型
-# load("step6 cell-fraction.Rdata")
+
 
 head(cell_fractions[,1:4])
 cell_f <- cell_fractions %>%as.data.frame() %>% 
